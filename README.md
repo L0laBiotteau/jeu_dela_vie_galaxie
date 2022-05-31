@@ -10,4 +10,5 @@ En tout, nous avons modifier l'intégralité du "my tools"
 
 ![image](https://user-images.githubusercontent.com/91456099/171114484-9904fec6-7a77-4fd6-9b07-efba4bc978c1.png)
 
+![Oscilador8periodos](https://user-images.githubusercontent.com/91456099/171115726-c0ebe27e-e82b-41bf-8e71-5f2d8ba74a10.gif)
 
